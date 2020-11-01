@@ -18,6 +18,6 @@ This notebook consists of an exploratory data analysis of the variables presente
 
 | YEARLY INFLATION RATE   | YEARLY EXCHANGE RATE | SYSTEMIC VS BANKING CRISIS |
 | ------------- |:-------------:| -----:|
-| ![alt text](police_ageranges.png)        | ![alt text](police_race.png)           | ![alt text](police_weapon.png)  |
+| ![alt text](yearly_inflation.png)        | ![alt text](yearly_exch.png)           | ![alt text](banking_crisis.png)  |
 
-Both univariate and bivariate analyses were performed to determine any correlating factors. 
+
